@@ -1,0 +1,44 @@
+.location{
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	border: 1px solid black;
+	text-align: center;
+	margin: 0px 10px;
+}
+
+.green{
+	color: green;
+}
+
+.red{
+	color: red;
+}
+
+#score {
+	min-height: 35px;
+	min-width: 50px;
+	border: 1px solid black;
+	display: inline;
+	color: black;
+}
+
+h2 {
+	display: inline-block;
+}
+
+p {
+	font-size: 1.1em;
+}
+
+input[type=submit value=find-gold]{
+	height: 45px;
+	width: 75px;
+}
+
+#activities {
+	overflow: scroll;
+	height: 300px;
+	width: 800px;
+	border: 1px solid black;
+}
